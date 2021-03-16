@@ -3,3 +3,8 @@ bin
 .project
 .classpath
 .settings
+.idea
+DaisyDiff.iml
+.DS_Store
+out
+**/*/META-INF
